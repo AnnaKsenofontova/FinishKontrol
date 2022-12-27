@@ -18,7 +18,7 @@ string[] arr =  {"Hello","am","is",
                      "without knowing where", 
                      "I have", "erected a monument", 
                      "to myself", "not", 
-                     "made with hands"};
+                     "made with hands" };
 
 
 
@@ -33,4 +33,14 @@ void PrintArray(string[] arr)
         else Console.Write($"{arr[i]}");
     }
     Console.WriteLine("]");
+}
+// Создаем метод вывода в консоль нового массива
+
+void PrintArraySorting(string[] sortingArray)
+{
+    for (int i = 0; i < sortingArray.Length; i++)
+    {
+        Console.Write(sortingArray[i] + " ");
+    }
+}
 
