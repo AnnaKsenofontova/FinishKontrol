@@ -5,7 +5,7 @@
 
 // Задаем массив строки.
 
-string[] arr =  {"Hello","am","is",
+string[] arr =  {"Hello",
                      
                      "Once upon a time", 
                      "there was", "pop", 
@@ -43,4 +43,28 @@ void PrintArraySorting(string[] sortingArray)
         Console.Write(sortingArray[i] + " ");
     }
 }
+
+// Создаем метод удаления из массива элементов, которые больше 3-х знаков
+
+string[] SortingArray(string[] array)
+{
+    string[] sortingArray = new string[array.Length];
+    int temp = 0;
+    for (int i = 0; i < array.Length; i++)
+    {
+        if (array[i].Length <= 3)
+        {
+            sortingArray[temp] = array[i];
+            temp++;
+        }
+    }
+    return sortingArray;
+}
+
+Console.WriteLine("Выводим первоначальный рандомный массив: ");
+PrintArray(arr);
+
+Console.WriteLine("Выводим отсортированный массив с длинной не более 3 символов в элементе: ");
+string[] sortingArray = SortingArray(arr);
+PrintArraySorting(sortingArray);
 

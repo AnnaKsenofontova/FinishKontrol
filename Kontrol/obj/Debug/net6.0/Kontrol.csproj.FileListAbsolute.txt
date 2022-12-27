@@ -1,0 +1,15 @@
+I:\ОБУЧЕНИЕ\Выбор специализации\Kontrol\Finish_kontrol\Kontrol\bin\Debug\net6.0\Kontrol.exe
+I:\ОБУЧЕНИЕ\Выбор специализации\Kontrol\Finish_kontrol\Kontrol\bin\Debug\net6.0\Kontrol.deps.json
+I:\ОБУЧЕНИЕ\Выбор специализации\Kontrol\Finish_kontrol\Kontrol\bin\Debug\net6.0\Kontrol.runtimeconfig.json
+I:\ОБУЧЕНИЕ\Выбор специализации\Kontrol\Finish_kontrol\Kontrol\bin\Debug\net6.0\Kontrol.dll
+I:\ОБУЧЕНИЕ\Выбор специализации\Kontrol\Finish_kontrol\Kontrol\bin\Debug\net6.0\Kontrol.pdb
+I:\ОБУЧЕНИЕ\Выбор специализации\Kontrol\Finish_kontrol\Kontrol\obj\Debug\net6.0\Kontrol.csproj.AssemblyReference.cache
+I:\ОБУЧЕНИЕ\Выбор специализации\Kontrol\Finish_kontrol\Kontrol\obj\Debug\net6.0\Kontrol.GeneratedMSBuildEditorConfig.editorconfig
+I:\ОБУЧЕНИЕ\Выбор специализации\Kontrol\Finish_kontrol\Kontrol\obj\Debug\net6.0\Kontrol.AssemblyInfoInputs.cache
+I:\ОБУЧЕНИЕ\Выбор специализации\Kontrol\Finish_kontrol\Kontrol\obj\Debug\net6.0\Kontrol.AssemblyInfo.cs
+I:\ОБУЧЕНИЕ\Выбор специализации\Kontrol\Finish_kontrol\Kontrol\obj\Debug\net6.0\Kontrol.csproj.CoreCompileInputs.cache
+I:\ОБУЧЕНИЕ\Выбор специализации\Kontrol\Finish_kontrol\Kontrol\obj\Debug\net6.0\Kontrol.dll
+I:\ОБУЧЕНИЕ\Выбор специализации\Kontrol\Finish_kontrol\Kontrol\obj\Debug\net6.0\refint\Kontrol.dll
+I:\ОБУЧЕНИЕ\Выбор специализации\Kontrol\Finish_kontrol\Kontrol\obj\Debug\net6.0\Kontrol.pdb
+I:\ОБУЧЕНИЕ\Выбор специализации\Kontrol\Finish_kontrol\Kontrol\obj\Debug\net6.0\Kontrol.genruntimeconfig.cache
+I:\ОБУЧЕНИЕ\Выбор специализации\Kontrol\Finish_kontrol\Kontrol\obj\Debug\net6.0\ref\Kontrol.dll
