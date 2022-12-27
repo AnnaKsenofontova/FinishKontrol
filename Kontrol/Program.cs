@@ -17,4 +17,20 @@ string[] arr =  {"Hello","am","is",
                      "Towards", "him", "Balda", "Goes",
                      "without knowing where", 
                      "I have", "erected a monument", 
-                     "to myself", "not", "made with hands"};
+                     "to myself", "not", 
+                     "made with hands"};
+
+
+
+// Создаем метод вывода в консоль заданого массива
+
+void PrintArray(string[] arr)
+{
+    Console.Write("[");
+    for (int i = 0; i < arr.Length; i++)
+    {
+        if (i < arr.Length - 1) Console.Write($"{arr[i]}, ");
+        else Console.Write($"{arr[i]}");
+    }
+    Console.WriteLine("]");
+
