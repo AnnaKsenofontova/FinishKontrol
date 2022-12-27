@@ -14,3 +14,4 @@
 6. Выводим на печать новый массив согласно условием задачи
 
 # Блок схема алгоритма:
+https://github.com/AnnaKsenofontova/FinishKontrol/blob/main/Algoritm.drawio
