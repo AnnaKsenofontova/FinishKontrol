@@ -4,3 +4,17 @@
 // лучше обойтись исключительно массивами.
 
 // Задаем массив строки.
+
+string[] arr =  {"Hello","am","is",
+                     
+                     "Once upon a time", 
+                     "there was", "pop", 
+                     "Tolokonny", "forehead",
+                     "Went", "pop around", 
+                     "the", "bazaar", "To see",
+                     "some kind of product", 
+                     "To see", "some", "kind of product",
+                     "Towards", "him", "Balda", "Goes",
+                     "without knowing where", 
+                     "I have", "erected a monument", 
+                     "to myself", "not", "made with hands"};
